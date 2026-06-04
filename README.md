@@ -51,7 +51,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 #### Data Science & AIML Tools
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&clockColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 </p>
@@ -62,7 +62,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ### Deployed Projects
 
-#### 📂 [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
+#### [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
 * Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments[cite: 2].
 * Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping[cite: 2].
 * Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%[cite: 2].
@@ -71,6 +71,12 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 ---
 
 ### Past Projects & Technical Implementations
+
+#### Ethical Workload Admission Control &nbsp; ` Java ` &nbsp; ` Maven ` &nbsp; ` JFreeChart ` &nbsp; ` Swing ` &nbsp; ` Systems Design `
+* Developed an automated admission engine to manage server resources fairly across multiple users and prevent system crashes.
+* Designed a dynamic algorithm that automatically upgrades task priority based on real-time rejection rates to avoid process starvation.
+* Built an interactive dashboard panel featuring live charts and data tracking tools to inspect and adjust configuration trade-offs.
+* Implemented a lightweight saving system to output detailed text-based logs for review and long-term storage planning.
 
 #### Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow `
 * Executed a machine learning research project focused on tracking textual plagiarism patterns and verifying code performance optimizations.
@@ -83,3 +89,14 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 #### Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` TensorFlow `
 * Engineered an automated predictive software suite configured to isolate, structure, and chart trends using historical market asset sequences.
 * Constructed statistical learning layers utilizing functional open-source mathematical processing architectures.
+
+---
+
+### Data Science & Analytics Case Studies
+
+#### Dynamic Pricing & Revenue Optimization for Flights and Hotels &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tableau ` &nbsp; ` TensorFlow ` &nbsp; ` Machine Learning `
+* Designed an analytical framework to study demand behavior and price fluctuations across flight schedule, flight cost, and hotel booking datasets.
+* Resolved data anomalies and target class imbalances across thousands of rows using data preprocessing pipelines and SMOTE oversampling methods.
+* Engineered predictive classifiers evaluating booking lead time, historical patterns, and asset availability vectors to attain a stable $\ge$98.0% F1-Score.
+* Combined SQL pricing analysis with multi-variable classification models and Tableau data visualizations to establish automated dynamic pricing recommendations.
+* Serialized the final high-performing machine learning model into a deployment-ready inference asset mapped to a recommendation user interface.
