@@ -147,7 +147,6 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/NLTK-blue?style=flat-square" />&nbsp;
-        <img src="https://img.shields.io/badge/NLP-blue?style=flat-square" />&nbsp;
       </div>
     </td>
   </tr>
