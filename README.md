@@ -97,6 +97,6 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 #### Dynamic Pricing & Revenue Optimization &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tableau ` &nbsp; ` TensorFlow ` &nbsp; ` Machine Learning `
 * Designed an analytical framework to study demand behavior and price fluctuations across flight schedule, flight cost, and hotel booking datasets.
 * Resolved data anomalies and target class imbalances across thousands of rows using data preprocessing pipelines and SMOTE oversampling methods.
-* Engineered predictive classifiers evaluating booking lead time, historical patterns, and asset availability vectors to attain a stable $\ge$98.0% F1-Score.
+* Engineered predictive classifiers evaluating booking lead time, historical patterns, and asset availability vectors to attain a stable 98.0% F1-Score.
 * Combined SQL pricing analysis with multi-variable classification models and Tableau data visualizations to establish automated dynamic pricing recommendations.
 * Serialized the final high-performing machine learning model into a deployment-ready inference asset mapped to a recommendation user interface.
