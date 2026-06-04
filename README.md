@@ -95,7 +95,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 <table width="100%" cellpadding="15" cellspacing="10" border="0">
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">Ethical Workload Admission Control</h4>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;"> 🔷 Ethical Workload Admission Control</h4>
       <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">An automated multi-tenant engine structured to balance SLA priorities and prevent server exhaustion scenarios.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
         <li>Designed a dynamic algorithm upgrading tasks based on rejection rates to prevent resource starvation.</li>
@@ -109,7 +109,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
       </div>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">Plagiarism Detection Model</h4>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Plagiarism Detection Model - Research Project </h4>
       <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">A machine learning-centric research development optimized to isolate overlapping textual syntax sequences.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
         <li>Engineered custom pipeline validation modules using statistical linguistic data filtering.</li>
@@ -125,7 +125,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">Stock Price Prediction Model</h4>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Stock Price Prediction Model</h4>
       <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">An algorithmic predictive software solution tailored to parse historical market asset data frameworks and evaluate trends.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
         <li>Constructed multi-variable mathematical modelling layers to capture structural historical behavior metrics.</li>
@@ -139,7 +139,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
       </div>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">Hotel Recommendation App</h4>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Travela - Hotel Recommendation App</h4>
       <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">A personalized client-side recommendation engine built to evaluate targeted customer preference filters matching dynamic parameters.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
         <li>Engineered a decoupled framework mapping local user interfaces to dedicated structured storage query tables.</li>
@@ -162,7 +162,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 24px;">
       <h3 style="margin-top: 0; margin-bottom: 12px; border-bottom: none;">
-        Dynamic Pricing & Revenue Optimization
+        🔷 Dynamic Pricing & Revenue Optimization for Hotels & Flights
       </h3>
       <p style="color: #8b949e; font-style: italic; margin-bottom: 16px;">
         An analytical enterprise-grade intelligence dashboard evaluating flight schedules, transport pricing datasets, and hospitality inventories to maximize business pricing logic.
