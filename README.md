@@ -1,9 +1,9 @@
 <div align="center">
 
 # <code>MOHAMMED RAIHAAN ARIF</code>
-## <i>Software Engineer | Cloud Architect</i>
+## <i>Full Stack Software Engineer | Cloud Architect | Currently learning AI Engineering </i>
 
-Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions.
+Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture.
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammedraihaan2005" target="_blank">
