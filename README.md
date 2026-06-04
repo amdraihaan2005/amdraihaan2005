@@ -54,14 +54,6 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ---
 
-### Technical Specializations
-
-* **System Architecture:** Development of modular REST APIs, implementation of state-management singletons, and configuring robust data persistence systems[cite: 2].
-* **Cloud Engineering:** Strategic deployment automation using AWS, process clustering for high-availability application runtimes, and database infrastructure provisioning[cite: 2].
-* **Data Pipelines:** Designing optimal ETL workflows, scaling predictive mathematical models, and structured analytics feature extraction[cite: 2].
-
----
-
 ### Past Projects & Technical Experience
 
 #### WorkFlo – Full Stack Project Management Platform
