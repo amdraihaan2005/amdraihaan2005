@@ -3,7 +3,7 @@
 # Mohammed Raihaan Arif
 ## Software Engineer | Cloud Architect
 
-Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 2]. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions[cite: 2].
+Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 2]. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions.
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.open('https://linkedin.com/in/mohammedraihaan2005')" />
@@ -71,17 +71,17 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 * Configured PM2 process clustering to establish a zero-downtime runtime environment with automated self-healing capabilities[cite: 2].
 * *Status: Complete / Production Environment Hosted*
 
-#### Plagiarism Detection Model
+#### Plagiarism Detection Model - Research Project
 * Executed a machine learning research project focused on plagiarism detection and underlying resource optimization computational mechanics.
 * Managed data structures and pipeline optimization utilities leveraging Python, Pandas, and TensorFlow.
-* *Timeline: Sep 2023 – May 2024 | Status: Research Build Complete*
+* *Timeline: Sep 2023 – May 2024
 
 #### Hotel Recommendation App
 * Created a personalized hotel recommendation application designed to process and filter localized configurations based on distinct user preferences.
 * Engineered a decoupled architecture incorporating Python execution scripts, native relational SQL database integration, and a responsive Tkinter desktop user interface.
-* *Timeline: Oct 2022 – Jun 2023 | Status: Implementation Localized*
+* *Timeline: Oct 2022 – Jun 2023
 
 #### Stock Price Prediction Model
 * Engineered an automated machine learning software solution tailored to parse historical market data and map asset price trends.
 * Developed analytical data modeling pipelines natively using Python programming infrastructures and TensorFlow libraries.
-* *Timeline: Nov 2021 – Aug 2022 | Status: Production Lifecycle Complete*
+* *Timeline: Nov 2021 – Aug 2022
