@@ -1,9 +1,9 @@
 <div align="center">
 
 # <code>MOHAMMED RAIHAAN ARIF</code>
-## <i>Software Engineer | Cloud Architect</i>
+## <i>Full Stack Software Developer | Cloud Architect</i>
 
-Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 2]. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions[cite: 2].
+[cite_start]Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 41]. [cite_start]Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions[cite: 41, 71].
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammedraihaan2005" target="_blank">
@@ -51,7 +51,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 #### Data Science & AIML Tools
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&clockColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 </p>
@@ -62,11 +62,11 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ### Deployed Projects
 
-#### [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
-* Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments[cite: 2].
-* Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping[cite: 2].
-* Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%[cite: 2].
-* Established zero-downtime operations by deploying native PM2 process clustering mechanisms to handle automated process state recovery[cite: 2].
+#### 📂 [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
+* [cite_start]Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments[cite: 41, 69, 70].
+* [cite_start]Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping[cite: 69, 71].
+* [cite_start]Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%[cite: 69, 72].
+* [cite_start]Established zero-downtime operations by deploying native PM2 process clustering mechanisms to handle automated process state recovery[cite: 69, 73].
 
 ---
 
@@ -78,7 +78,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 * Built an interactive dashboard panel featuring live charts and data tracking tools to inspect and adjust configuration trade-offs.
 * Implemented a lightweight saving system to output detailed text-based logs for review and long-term storage planning.
 
-#### Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow `
+#### Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow ` ` Machine Learning `
 * Executed a machine learning research project focused on tracking textual plagiarism patterns and verifying code performance optimizations.
 * Managed core data manipulation matrix arrays and processing pipelines leveraging localized language libraries.
 
@@ -86,15 +86,15 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 * Created a personalized desktop hotel filtering application designed to sort choices dynamically using strict parameter weights matching user preferences.
 * Engineered a decoupled code structure bridging localized file scripting backends with integrated relational database tables.
 
-#### Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` TensorFlow `
+#### Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` Pandas ` ` NumPy ` ` TensorFlow ` ` Matplotlib `
 * Engineered an automated predictive software suite configured to isolate, structure, and chart trends using historical market asset sequences.
 * Constructed statistical learning layers utilizing functional open-source mathematical processing architectures.
 
 ---
 
-### Data Science & Analytics Case Studies
+### Analytics & Data Science Case Studies
 
-#### Dynamic Pricing & Revenue Optimization for Flights and Hotels &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tableau ` &nbsp; ` TensorFlow ` &nbsp; ` Machine Learning `
+#### Dynamic Pricing & Revenue Optimization &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tableau ` &nbsp; ` TensorFlow ` &nbsp; ` Machine Learning `
 * Designed an analytical framework to study demand behavior and price fluctuations across flight schedule, flight cost, and hotel booking datasets.
 * Resolved data anomalies and target class imbalances across thousands of rows using data preprocessing pipelines and SMOTE oversampling methods.
 * Engineered predictive classifiers evaluating booking lead time, historical patterns, and asset availability vectors to attain a stable $\ge$98.0% F1-Score.
