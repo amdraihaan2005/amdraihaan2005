@@ -48,7 +48,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </p>
 
-#### Data Science & Automation Tools
+#### Data Science & AIML Tools
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -72,14 +72,14 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ### Past Projects & Technical Implementations
 
-#### 📂 Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow `
+#### Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow `
 * Executed a machine learning research project focused on tracking textual plagiarism patterns and verifying code performance optimizations.
 * Managed core data manipulation matrix arrays and processing pipelines leveraging localized language libraries.
 
-#### 📂 Hotel Recommendation App &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tkinter `
+#### Hotel Recommendation App &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tkinter `
 * Created a personalized desktop hotel filtering application designed to sort choices dynamically using strict parameter weights matching user preferences.
 * Engineered a decoupled code structure bridging localized file scripting backends with integrated relational database tables.
 
-#### 📂 Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` TensorFlow `
+#### Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` TensorFlow `
 * Engineered an automated predictive software suite configured to isolate, structure, and chart trends using historical market asset sequences.
 * Constructed statistical learning layers utilizing functional open-source mathematical processing architectures.
