@@ -140,8 +140,9 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
       <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Travela - Hotel Recommendation App</h4>
       <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">A personalized client-side recommendation engine built to evaluate targeted customer preference filters matching dynamic parameters.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
-        <li>Engineered a decoupled framework mapping local user interfaces to dedicated structured storage query tables.</li>
-        <li>Optimized indexing lookups to keep asset matching speeds consistent during dense sorting runs.</li>
+        <li>Engineered a decoupled framework matching localized desktop graphical interfaces with integrated backend query layers.</li>
+        <li>Developed granular multi-parameter matching logic evaluating target budgets, travel timelines, and amenity configurations.</li>
+        <li>Optimized database search indexes to ensure consistent execution performance profiles during high-volume query passes.</li>
       </ul>
       <div style="text-align: center; margin-top: auto;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
