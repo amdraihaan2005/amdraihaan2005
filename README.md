@@ -81,7 +81,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/AWS_EC2-orange?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/AWS_EC2-orange?style=for-the-badge&logo=aws&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/PM2-purple?style=for-the-badge&logo=pm2&logoColor=white" />
       </div>
     </td>
