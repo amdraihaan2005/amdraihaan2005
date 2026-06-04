@@ -118,7 +118,6 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/ML-gray?style=flat-square" />
       </div>
     </td>
   </tr>
