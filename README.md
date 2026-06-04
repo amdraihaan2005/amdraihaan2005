@@ -1,7 +1,7 @@
 <div align="center">
 
-# Mohammed Raihaan Arif
-## Software Engineer | Cloud Architect
+# <code>MOHAMMED RAIHAAN ARIF</code>
+## <i>Software Engineer | Cloud Architect</i>
 
 Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 2]. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions[cite: 2].
 
@@ -62,7 +62,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ### Deployed Projects
 
-#### [WorkFlo](https://github.com/amdraihaan2005/workflo) | `Next.js` `TypeScript` `Node.js` `PostgreSQL` `AWS`
+#### 📂 [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
 * Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments[cite: 2].
 * Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping[cite: 2].
 * Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%[cite: 2].
@@ -72,14 +72,14 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ### Past Projects & Technical Implementations
 
-#### Plagiarism Detection Model | `Python` `Pandas` `TensorFlow`
+#### 📂 Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow `
 * Executed a machine learning research project focused on tracking textual plagiarism patterns and verifying code performance optimizations.
 * Managed core data manipulation matrix arrays and processing pipelines leveraging localized language libraries.
 
-#### Hotel Recommendation App | `Python` `SQL` `Tkinter`
+#### 📂 Hotel Recommendation App &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tkinter `
 * Created a personalized desktop hotel filtering application designed to sort choices dynamically using strict parameter weights matching user preferences.
 * Engineered a decoupled code structure bridging localized file scripting backends with integrated relational database tables.
 
-#### Stock Price Prediction Model | `Python` `TensorFlow`
+#### 📂 Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` TensorFlow `
 * Engineered an automated predictive software suite configured to isolate, structure, and chart trends using historical market asset sequences.
 * Constructed statistical learning layers utilizing functional open-source mathematical processing architectures.
