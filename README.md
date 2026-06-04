@@ -1,9 +1,9 @@
 <div align="center">
 
 # <code>MOHAMMED RAIHAAN ARIF</code>
-## <i>Full Stack Software Developer | Cloud Architect</i>
+## <i>Software Engineer | Cloud Architect</i>
 
-Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture.
+Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions.
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammedraihaan2005" target="_blank">
@@ -60,43 +60,106 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ---
 
-### Deployed Projects
+### 🌐 Featured Deployment
 
-#### 📂 [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
-* [cite_start]Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments.
-* [cite_start]Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping.
-* [cite_start]Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%.
-* [cite_start]Established zero-downtime operations by deploying native PM2 process clustering mechanisms to handle automated process state recovery.
-
----
-
-### Past Projects & Technical Implementations
-
-#### Ethical Workload Admission Control &nbsp; ` Java ` &nbsp; ` Maven ` &nbsp; ` JFreeChart ` &nbsp; ` Swing ` &nbsp; ` Systems Design `
-* Developed an automated admission engine to manage server resources fairly across multiple users and prevent system crashes.
-* Designed a dynamic algorithm that automatically upgrades task priority based on real-time rejection rates to avoid process starvation.
-* Built an interactive dashboard panel featuring live charts and data tracking tools to inspect and adjust configuration trade-offs.
-* Implemented a lightweight saving system to output detailed text-based logs for review and long-term storage planning.
-
-#### Plagiarism Detection Model &nbsp; ` Python ` &nbsp; ` Pandas ` &nbsp; ` TensorFlow ` ` Machine Learning `
-* Executed a machine learning research project focused on tracking textual plagiarism patterns and verifying code performance optimizations.
-* Managed core data manipulation matrix arrays and processing pipelines leveraging localized language libraries.
-
-#### Hotel Recommendation App &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tkinter `
-* Created a personalized desktop hotel filtering application designed to sort choices dynamically using strict parameter weights matching user preferences.
-* Engineered a decoupled code structure bridging localized file scripting backends with integrated relational database tables.
-
-#### Stock Price Prediction Model &nbsp; ` Python ` &nbsp; ` Pandas ` ` NumPy ` ` TensorFlow ` ` Matplotlib `
-* Engineered an automated predictive software suite configured to isolate, structure, and chart trends using historical market asset sequences.
-* Constructed statistical learning layers utilizing functional open-source mathematical processing architectures.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>📂 <a href="https://github.com/amdraihaan2005/workflo">WorkFlo — Project Management Platform</a></h3>
+      <p><i>A full-stack, lightweight project management workspace engineered to eliminate operational friction and corporate process bloat for collaborative team environments.</i></p>
+      <ul>
+        <li><b>Architecture Integration:</b> Hosted the Express runtime layer and centralized PostgreSQL engine natively within a single optimized AWS EC2 instance.</li>
+        <li><b>Performance Optimizations:</b> Reduced target client-server data transfer volume by 40% using specialized RTK Query network caching mechanisms.</li>
+        <li><b>Process Management:</b> Implemented native PM2 process clustering configurations to guarantee a zero-downtime, self-healing runtime ecosystem.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/AWS_EC2-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/PM2-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Data Science & Analytics Case Studies
+### 🛠️ Systems & Offline Implementations
 
-#### Dynamic Pricing & Revenue Optimization &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tableau ` &nbsp; ` TensorFlow ` &nbsp; ` Machine Learning `
-* Designed an analytical framework to study demand behavior and price fluctuations across flight schedule, flight cost, and hotel booking datasets.
-* Resolved data anomalies and target class imbalances across thousands of rows using data preprocessing pipelines and SMOTE oversampling methods.
-* Engineered predictive classifiers evaluating booking lead time, historical patterns, and asset availability vectors to attain a stable 98.0% F1-Score.
-* Combined SQL pricing analysis with multi-variable classification models and Tableau data visualizations to establish automated dynamic pricing recommendations.
-* Serialized the final high-performing machine learning model into a deployment-ready inference asset mapped to a recommendation user interface.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Ethical Workload Admission Control</h3>
+      <p>An automated multi-tenant engine structured to balance SLA priorities and prevent server exhaustion scenarios.</p>
+      <ul>
+        <li>Designed a dynamic algorithm upgrading tasks based on rejection rates to prevent resource starvation.</li>
+        <li>Built an interactive Swing telemetry panel featuring integrated real-time analytical charts.</li>
+      </ul>
+      <p>
+        <code>Java</code> &middot; <code>Maven</code> &middot; <code>JFreeChart</code> &middot; <code>Swing</code> &middot; <code>Systems Design</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Plagiarism Detection Model</h3>
+      <p>A machine learning-centric research development optimized to isolate overlapping textual syntax sequences.</p>
+      <ul>
+        <li>Engineered custom pipeline validation modules using statistical linguistic data filtering.</li>
+        <li>Optimized underlying algorithmic execution routines to lower total computational runtime overhead.</li>
+      </ul>
+      <p>
+        <code>Python</code> &middot; <code>Pandas</code> &middot; <code>TensorFlow</code> &middot; <code>Machine Learning</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Stock Price Prediction Model</h3>
+      <p>An algorithmic predictive software solution tailored to parse historical market asset data frameworks and evaluate trends.</p>
+      <ul>
+        <li>Constructed multi-variable mathematical modelling layers to capture structural historical behavior metrics.</li>
+        <li>Mapped clean feature-extraction data flows using functional processing libraries.</li>
+      </ul>
+      <p>
+        <code>Python</code> &middot; <code>Pandas</code> &middot; <code>NumPy</code> &middot; <code>TensorFlow</code> &middot; <code>Matplotlib</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏨 Hotel Recommendation App</h3>
+      <p>A personalized client-side recommendation engine built to evaluate targeted customer preference filters matching dynamic parameters.</p>
+      <ul>
+        <li>Engineered a decoupled framework mapping local user interfaces to dedicated structured storage query tables.</li>
+        <li>Optimized indexing lookups to keep asset matching speeds consistent during dense sorting runs.</li>
+      </ul>
+      <p>
+        <code>Python</code> &middot; <code>SQL</code> &middot; <code>Tkinter</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Analytics & Revenue Optimization
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🔬 Dynamic Pricing & Revenue Optimization</h3>
+      <p><i>An analytical enterprise-grade intelligence dashboard evaluating flight schedules, transport pricing datasets, and hospitality inventories to maximize business pricing logic.</i></p>
+      <ul>
+        <li><b>Imbalance Mitigations:</b> Systematically resolved skewed target features and data noise utilizing advanced SMOTE oversampling preprocessing methodologies.</li>
+        <li><b>Predictive Modeling:</b> Trained high-performance Random Forest classifiers modeling booking lead time and inventory constraints to sustain a stable $\ge$98.0% F1-Score.</li>
+        <li><b>Strategic Insights:</b> Combined distinct SQL analytics queries with Tableau data visualization dashboards to map out dynamic competitive pricing recommendations.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tableau=white?style=flat-square" />
+        <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Machine_Learning-gray?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
