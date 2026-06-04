@@ -3,12 +3,18 @@
 # Mohammed Raihaan Arif
 ## Software Engineer | Cloud Architect
 
-Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 2]. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions.
+Final-Year Computer Science Engineering student specializing in full-stack development, AI integration workflows, and cloud architecture[cite: 2]. Focused on optimizing technical operations and engineering cost-effective, high-performance cloud solutions[cite: 2].
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.open('https://linkedin.com/in/mohammedraihaan2005')" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" onclick="window.open('https://github.com/amdraihaan2005')" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" onclick="window.open('mailto:amdraihaan@gmail.com')" />
+  <a href="https://linkedin.com/in/mohammedraihaan2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/amdraihaan2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:amdraihaan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -54,26 +60,26 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ---
 
-### Past Projects & Technical Experience
+### Deployed Projects
 
-#### WorkFlo – Full Stack Project Management Platform
-* Developed a full-stack project management platform using Next.js, Express.js, and TypeScript[cite: 2].
-* Hosted the Express server and PostgreSQL database on a single AWS EC2 instance to cut memory overhead by 25% via Node v20 (LTS) migration[cite: 2].
-* Optimized client-server data transfer by 40% using RTK Query caching mechanisms[cite: 2].
-* Configured PM2 process clustering to establish a zero-downtime runtime environment with automated self-healing capabilities[cite: 2].
-* *Status: Complete / Production Environment Hosted*
+#### [WorkFlo](https://github.com/amdraihaan2005/workflo) | `Next.js` `TypeScript` `Node.js` `PostgreSQL` `AWS`
+* Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments[cite: 2].
+* Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping[cite: 2].
+* Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%[cite: 2].
+* Established zero-downtime operations by deploying native PM2 process clustering mechanisms to handle automated process state recovery[cite: 2].
 
-#### Plagiarism Detection Model - Research Project
-* Executed a machine learning research project focused on plagiarism detection and underlying resource optimization computational mechanics.
-* Managed data structures and pipeline optimization utilities leveraging Python, Pandas, and TensorFlow.
-* *Timeline: Sep 2023 – May 2024
+---
 
-#### Hotel Recommendation App
-* Created a personalized hotel recommendation application designed to process and filter localized configurations based on distinct user preferences.
-* Engineered a decoupled architecture incorporating Python execution scripts, native relational SQL database integration, and a responsive Tkinter desktop user interface.
-* *Timeline: Oct 2022 – Jun 2023
+### Past Projects & Technical Implementations
 
-#### Stock Price Prediction Model
-* Engineered an automated machine learning software solution tailored to parse historical market data and map asset price trends.
-* Developed analytical data modeling pipelines natively using Python programming infrastructures and TensorFlow libraries.
-* *Timeline: Nov 2021 – Aug 2022
+#### Plagiarism Detection Model | `Python` `Pandas` `TensorFlow`
+* Executed a machine learning research project focused on tracking textual plagiarism patterns and verifying code performance optimizations.
+* Managed core data manipulation matrix arrays and processing pipelines leveraging localized language libraries.
+
+#### Hotel Recommendation App | `Python` `SQL` `Tkinter`
+* Created a personalized desktop hotel filtering application designed to sort choices dynamically using strict parameter weights matching user preferences.
+* Engineered a decoupled code structure bridging localized file scripting backends with integrated relational database tables.
+
+#### Stock Price Prediction Model | `Python` `TensorFlow`
+* Engineered an automated predictive software suite configured to isolate, structure, and chart trends using historical market asset sequences.
+* Constructed statistical learning layers utilizing functional open-source mathematical processing architectures.
