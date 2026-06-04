@@ -63,10 +63,10 @@
 ### Deployed Projects
 
 #### 📂 [WorkFlo](https://github.com/amdraihaan2005/workflo) &nbsp; ` Next.js ` &nbsp; ` TypeScript ` &nbsp; ` Node.js ` &nbsp; ` PostgreSQL ` &nbsp; ` AWS `
-* [cite_start]Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments[cite: 41, 69, 70].
-* [cite_start]Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping[cite: 69, 71].
-* [cite_start]Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%[cite: 69, 72].
-* [cite_start]Established zero-downtime operations by deploying native PM2 process clustering mechanisms to handle automated process state recovery[cite: 69, 73].
+* [cite_start]Developed a full-stack project management platform engineered to reduce operational overhead for collaborative environments.
+* [cite_start]Hosted the Express runtime and PostgreSQL engine on a single AWS EC2 instance, maximizing infrastructure efficiency via custom resource mapping.
+* [cite_start]Implemented caching policies using RTK Query to reduce standard client-server data transfer volume by 40%.
+* [cite_start]Established zero-downtime operations by deploying native PM2 process clustering mechanisms to handle automated process state recovery.
 
 ---
 
@@ -92,7 +92,7 @@
 
 ---
 
-### Analytics & Data Science Case Studies
+### Data Science & Analytics Case Studies
 
 #### Dynamic Pricing & Revenue Optimization &nbsp; ` Python ` &nbsp; ` SQL ` &nbsp; ` Tableau ` &nbsp; ` TensorFlow ` &nbsp; ` Machine Learning `
 * Designed an analytical framework to study demand behavior and price fluctuations across flight schedule, flight cost, and hotel booking datasets.
