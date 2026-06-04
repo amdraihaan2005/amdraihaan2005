@@ -145,13 +145,13 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 ---
 
-### Analytics & Revenue Optimization
+### Data Science & Analytics Case Studies
 
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 24px;">
       <h3 style="margin-top: 0; margin-bottom: 12px; border-bottom: none;">
-        📌 Dynamic Pricing & Revenue Optimization
+        📌 Dynamic Pricing & Revenue Optimization for Flights & Hotels 
       </h3>
       <p style="color: #8b949e; font-style: italic; margin-bottom: 16px;">
         An analytical enterprise-grade intelligence dashboard evaluating flight schedules, transport pricing datasets, and hospitality inventories to maximize business pricing logic.
