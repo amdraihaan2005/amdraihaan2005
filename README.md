@@ -105,7 +105,6 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Swing-blue?style=flat-square" />&nbsp;
-        <img src="https://img.shields.io/badge/Architecture-gray?style=flat-square" />
       </div>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -169,7 +168,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
       </p>
       <ul style="margin-bottom: 20px; padding-left: 20px; line-height: 1.6;">
         <li><b>Imbalance Mitigations:</b> Systematically resolved skewed target features and data noise utilizing advanced SMOTE oversampling preprocessing methodologies.</li>
-        <li><b>Predictive Modeling:</b> Trained high-performance Random Forest classifiers modeling booking lead time and inventory constraints to sustain a stable validation metric of $\ge$98.0% F1-Score.</li>
+        <li><b>Predictive Modeling:</b> Trained high-performance Random Forest classifiers modeling booking lead time and inventory constraints to sustain a stable validation metric of 98.0% F1-Score.</li>
         <li><b>Strategic Insights:</b> Combined distinct SQL analytics queries with Tableau data visualization dashboards to map out dynamic competitive pricing recommendations.</li>
       </ul>
       <div style="text-align: center; margin-top: 16px;">
