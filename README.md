@@ -31,28 +31,53 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
 </p>
 
-#### Backend & Cloud Infrastructure
+#### Backend Engineering & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
 </p>
 
-#### Data Layers & Core Languages
+#### Core Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-123A50?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/static/v1?message=C%2FC%2B%2B&color=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </p>
 
-#### Data Science & AIML Tools
+#### Database Layer
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="AWS RDS" />
+  <img src="https://img.shields.io/badge/Prisma-123A50?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+</p>
+
+#### Cloud Architecture & Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge" alt="AWS Cognito" />
+  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="AWS Amplify" />
+</p>
+
+#### Data Science & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL-blueviolet?style=for-the-badge" alt="ETL" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+</p>
+
+#### Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 </p>
 
@@ -69,17 +94,19 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         📌 <a href="https://github.com/amdraihaan2005/workflo">WorkFlo — Project Management Platform</a>
       </h3>
       <p style="color: #8b949e; font-style: italic; margin-bottom: 16px;">
-        A full-stack, lightweight project management workspace engineered to eliminate operational friction and corporate process bloat for collaborative team environments.
+        A full-stack, lightweight project management workspace specifically built for small-scale teams to eliminate workflow friction and enhance collaborative efficiency.
       </p>
       <ul style="margin-bottom: 20px; padding-left: 20px; line-height: 1.6;">
-        <li><b>Architecture Integration:</b> Hosted the Express runtime layer and centralized PostgreSQL engine natively within a single optimized AWS EC2 instance.</li>
-        <li><b>Performance Optimizations:</b> Reduced target client-server data transfer volume by 40% using specialized RTK Query network caching mechanisms.</li>
-        <li><b>Process Management:</b> Implemented native PM2 process clustering configurations to guarantee a zero-downtime, self-healing runtime ecosystem.</li>
+        <li>Engineered a cost-effective cloud setup by hosting Express and PostgreSQL on a single AWS EC2 instance, migrating to Node v20 (LTS) to cut memory overhead by 25%.</li>
+        <li>Optimized client-server data transfer by 40% using RTK Query caching, and created a DOM script to bypass AWS Cognito signup friction.</li>
+        <li>Established zero-downtime production hosting by configuring PM2 process clustering for automated self-healing and crash recovery.</li>
+        <li>Integrated AWS Cognito for secure user authentication, deploying the frontend on AWS Amplify with automated CI/CD pipelines.</li>
       </ul>
       <div style="margin-top: 20px;">
         <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/AWS_EC2-orange?style=for-the-badge&logo=aws&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/PM2-purple?style=for-the-badge&logo=pm2&logoColor=white" />
@@ -95,59 +122,64 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 <table width="100%" cellpadding="15" cellspacing="10" border="0">
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;"> 🔷 Ethical Workload Admission Control</h4>
-      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">An automated multi-tenant engine structured to balance SLA priorities and prevent server exhaustion scenarios.</p>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;"> 🔷 Ethical Workload Admission Control System</h4>
+      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">Developed a policy-driven cloud workload admission framework in Java using CloudSim to filter and regulate workloads before VM scheduling and execution.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
-        <li>Designed a dynamic algorithm upgrading tasks based on rejection rates to prevent resource starvation.</li>
-        <li>Built an interactive Swing telemetry panel featuring integrated real-time analytical charts.</li>
+        <li>Built a custom EthicalBroker to classify workloads and automatically reject restricted tasks (e.g., crypto-mining or surveillance) while scheduling legitimate jobs.</li>
+        <li>Implemented configurable admission logic, audit logging, and real-time telemetry monitoring via a Java Swing analytical dashboard.</li>
       </ul>
       <div style="text-align: center; margin-top: auto;">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/CloudSim-gray?style=flat-square" />&nbsp;
         <img src="https://img.shields.io/badge/Swing-blue?style=flat-square" />&nbsp;
       </div>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Plagiarism Detection Model - Research Project </h4>
-      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">A machine learning-centric research development optimized to isolate overlapping textual syntax sequences.</p>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Plagiarism Detection Model — Research Project</h4>
+      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">Developed a plagiarism detection system in Python to identify similar and duplicated textual content across documents.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
-        <li>Engineered custom pipeline validation modules using statistical linguistic data filtering.</li>
-        <li>Optimized underlying algorithmic execution routines to lower total computational runtime overhead.</li>
+        <li>Built a text-analysis pipeline using tokenization, n-gram comparison, and similarity scoring to detect overlapping sentence structures.</li>
+        <li>Implemented text preprocessing and filtering modules, optimizing comparison routines to handle large text datasets efficiently.</li>
+        <li>Evaluated the pipeline on academic datasets, demonstrating high detection accuracy for verbatim copies and paraphrased text.</li>
       </ul>
       <div style="text-align: center; margin-top: auto;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/NLTK-blue?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/NLP-blue?style=flat-square" />&nbsp;
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Stock Price Prediction Model</h4>
-      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">An algorithmic predictive software solution tailored to parse historical market asset data frameworks and evaluate trends.</p>
+      <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Stock Price Prediction & Analysis Dashboard</h4>
+      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">Developed a web-based financial analytics dashboard in Python using Flask and Keras/TensorFlow to analyze historical market data and predict future stock price trends.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
-        <li>Constructed multi-variable mathematical modelling layers to capture structural historical behavior metrics.</li>
-        <li>Mapped clean feature-extraction data flows using functional processing libraries.</li>
+        <li>Built a Flask web app that downloads stock datasets via yfinance and displays historical statistics along with 20, 50, 100, and 200-day EMAs.</li>
+        <li>Integrated a pre-trained Keras deep learning model (.h5) to predict price trends using a rolling 100-day sliding window.</li>
+        <li>Generated dynamic visual charts using Matplotlib to overlay trend lines and predictions, enabling direct CSV data downloads.</li>
       </ul>
       <div style="text-align: center; margin-top: auto;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />&nbsp;
       </div>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <h4 style="margin-top: 0; margin-bottom: 10px; border-bottom: none; text-align: center;">🔷 Travela - Hotel Recommendation App</h4>
-      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">A personalized client-side recommendation engine built to evaluate targeted customer preference filters matching dynamic parameters.</p>
+      <p style="color: #8b949e; font-size: 14px; margin-bottom: 12px; min-height: 40px; text-align: center;">Developed a desktop hotel recommendation app focused on personalized travel discovery using dynamic user preference filtering.</p>
       <ul style="padding-left: 18px; font-size: 13px; line-height: 1.5; margin-bottom: 16px;">
-        <li>Engineered a decoupled framework matching localized desktop graphical interfaces with integrated backend query layers.</li>
-        <li>Developed granular multi-parameter matching logic evaluating target budgets, travel timelines, and amenity configurations.</li>
-        <li>Optimized database search indexes to ensure consistent execution performance profiles during high-volume query passes.</li>
+        <li>Developed a recommendation engine in Python that filters hotel suggestions based on user budget, ratings, and location preferences.</li>
+        <li>Integrated a relational SQL storage layer to maintain fast query execution during large-scale sorting and multi-parameter searches.</li>
+        <li>Created an interactive desktop GUI using Tkinter, enabling seamless user inputs and easy navigation.</li>
       </ul>
       <div style="text-align: center; margin-top: auto;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Tkinter-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tkinter-blue?style=flat-square" />&nbsp;
       </div>
     </td>
   </tr>
@@ -164,12 +196,12 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         🔷 Dynamic Pricing & Revenue Optimization for Hotels & Flights
       </h3>
       <p style="color: #8b949e; font-style: italic; margin-bottom: 16px;">
-        An analytical enterprise-grade intelligence dashboard evaluating flight schedules, transport pricing datasets, and hospitality inventories to maximize business pricing logic.
+        Built a financial analytics system in Python using Machine Learning and SQL to optimize flight schedules, transport pricing datasets, and hospitality inventories.
       </p>
       <ul style="margin-bottom: 20px; padding-left: 20px; line-height: 1.6;">
-        <li><b>Imbalance Mitigations:</b> Systematically resolved skewed target features and data noise utilizing advanced SMOTE oversampling preprocessing methodologies.</li>
-        <li><b>Predictive Modeling:</b> Trained high-performance Random Forest classifiers modeling booking lead time and inventory constraints to sustain a stable validation metric of 98.0% F1-Score.</li>
-        <li><b>Strategic Insights:</b> Combined distinct SQL analytics queries with Tableau data visualization dashboards to map out dynamic competitive pricing recommendations.</li>
+        <li>Resolved class imbalance in booking datasets by applying SMOTE oversampling to improve data preprocessing quality.</li>
+        <li>Trained Random Forest models to predict booking lead times and inventory constraints, achieving a 98% F1-score.</li>
+        <li>Analyzed pricing trends using SQL and designed Tableau dashboards to deliver dynamic competitive pricing insights.</li>
       </ul>
       <div style="text-align: center; margin-top: 16px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
