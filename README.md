@@ -43,7 +43,7 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/static/v1?message=C%2FC%2B%2B&color=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </p>
 
