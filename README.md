@@ -207,7 +207,6 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Machine_Learning-gray?style=flat-square" />
       </div>
     </td>
   </tr>
