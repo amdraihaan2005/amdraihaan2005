@@ -190,23 +190,26 @@ Final-Year Computer Science Engineering student specializing in full-stack devel
 
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
   <tr>
-    <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 24px;">
+    <td bgcolor="#0d1117"
+        style="border: 1px solid #30363d;
+               border-radius: 6px;
+               padding: 24px 24px 32px 24px;">
       <h3 style="margin-top: 0; margin-bottom: 12px; border-bottom: none;">
         🔷 Dynamic Pricing & Revenue Optimization for Hotels & Flights
       </h3>
-      <p style="color: #8b949e; font-style: italic; margin-bottom: 16px;">
+      <p style="color: #8b949e; font-style: italic; margin-top: 0; margin-bottom: 16px;">
         Built a financial analytics system in Python using Machine Learning and SQL to optimize flight schedules, transport pricing datasets, and hospitality inventories.
       </p>
-      <ul style="margin-bottom: 20px; padding-left: 20px; line-height: 1.6;">
+      <ul style="padding-left: 20px; line-height: 1.6; margin-top: 0; margin-bottom: 24px;">
         <li>Resolved class imbalance in booking datasets by applying SMOTE oversampling to improve data preprocessing quality.</li>
         <li>Trained Random Forest models to predict booking lead times and inventory constraints, achieving a 98% F1-score.</li>
         <li>Analyzed pricing trends using SQL and designed Tableau dashboards to deliver dynamic competitive pricing insights.</li>
       </ul>
-      <div style="text-align: center; margin-top: 16px;">
+      <div style="text-align: center; margin-top: 0;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       </div>
     </td>
   </tr>
