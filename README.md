@@ -4,7 +4,7 @@
 ## <i>Full Stack Engineer | AWS, React, Node.js | Exploring AI Engineering</i>
 
 Final-year Computer Science Engineering student focused on building and deploying full-stack web applications using React, Next.js, Node.js, PostgreSQL, and AWS. 
-Interested in AI Engineering, production systems, and cloud-native application development.
+Interested in AI Engineering and cloud-native application development.
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammedraihaan2005" target="_blank">
