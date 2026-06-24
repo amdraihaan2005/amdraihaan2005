@@ -22,7 +22,7 @@ Interested in AI Engineering and cloud-native application development.
 
 ---
 
-### Deployed Project
+### Deployed Projects
 
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
   <tr>
