@@ -1,7 +1,7 @@
 <div align="center">
 
 # <code>MOHAMMED RAIHAAN ARIF</code>
-## <i> AI Engineer | Data Scientist</i>
+## <i> Data Scientist // AI Engineer </i>
 
 Data Scientist & Analytics Engineer specializing in machine learning and business intelligence. Experienced in scalable data architectures, end-to-end analytical and business frameworks.
 
@@ -27,7 +27,7 @@ Data Scientist & Analytics Engineer specializing in machine learning and busines
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 24px;">
       <h3 style="margin-top: 0; margin-bottom: 12px; border-bottom: none;">
-        🔷 <a href="https://github.com/amdraihaan2005/bank-customer-churn-prediction">Bank Customer Churn Prediction</a>
+        🔷 <a href="https://github.com/amdraihaan2005/bank-customer-churn-prediction">Bank Customer Churn Prediction & Analysis Platform</a>
       </h3>
       <p style="color: #8b949e; font-style: italic; margin-bottom: 16px;">
         Built a comprehensive customer churn prediction web application to analyze risk and provide actionable retention strategies.
